@@ -1,0 +1,56 @@
+TEMAS
+====================================================
+
+1.- Patrones Factory
+    Seopa, Mojino, Lopez
+
+2.- Principios SOLID
+    Ramirez, Torres, Juag
+
+3.- Expresiones Lambda y Strem en Java 8
+    
+
+4.- Pruebas Unitarias
+    Cervantes, Fernandez, Luque
+
+5.- Manejo de Archivos Log
+    Dariquebe, Sandi, Piñola
+
+6.- Manejo de Datos Genericos - Generic
+    
+
+7.- ReactJS
+    
+
+8.  VueJS
+    
+
+9.  Java JAAS
+	  
+	
+10. AngularJS
+    Angulo, Cordova
+
+
+PRESENTACIÓN: 07-JUN-2017
+
+
+
+ENTREGABLES
+==============================================================
+
+Se comparte via un repositorio en GitHub: USIL_TPW_Tema
+
+  A.- Monografia
+  B.- PPT
+  C.- Ejemplos
+
+
+EVALUACION
+===============================================================
+
+1.- Presentación
+2.- Monofrafia
+3.- Exposición
+4.- Ejemplos
+5.- Respuesta a preguntas
