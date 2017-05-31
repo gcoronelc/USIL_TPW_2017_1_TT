@@ -1,5 +1,8 @@
 ![TALLER DE PROGRAMACION WEB](https://raw.githubusercontent.com/gcoronelc/USIL_TPW_2017_1_TT/master/USIL_TPW.png)
 
+![TALLER DE PROGRAMACION WEB](
+https://raw.githubusercontent.com/gcoronelc/USIL_TPW_2017_1_TT/master/Fotos/IMG_20170522_143023348_HDR.jpg)
+
 # TALLER DE PROGRAMACION WEB
 
 - Lugar: INSTITUTO EMPRENDEDORES
