@@ -1,5 +1,8 @@
 package pe.egcc.demo02;
 
+import org.springframework.stereotype.Repository;
+
+@Repository("Algo")
 public class AppController {
   
   private AppService service;
