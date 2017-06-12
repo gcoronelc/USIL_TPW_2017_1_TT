@@ -27,6 +27,35 @@ https://raw.githubusercontent.com/gcoronelc/USIL_TPW_2017_1_TT/master/Fotos/IMG_
 
 
 
+![TALLER DE PROGRAMACION WEB](
+https://raw.githubusercontent.com/gcoronelc/USIL_TPW_2017_1_TT/master/Fotos/IMG_20170522_143023348_HDR.jpg)
+
+![TALLER DE PROGRAMACION WEB](
+https://raw.githubusercontent.com/gcoronelc/USIL_TPW_2017_1_TT/master/Fotos/IMG_20170531_130630469.jpg)
+
+
+![TALLER DE PROGRAMACION WEB](
+https://raw.githubusercontent.com/gcoronelc/USIL_TPW_2017_1_TT/master/Fotos/IMG_20170531_133651816.jpg)
+
+
+![TALLER DE PROGRAMACION WEB](
+https://raw.githubusercontent.com/gcoronelc/USIL_TPW_2017_1_TT/master/Fotos/IMG_20170531_133658233.jpg)
+
+
+![TALLER DE PROGRAMACION WEB](
+https://raw.githubusercontent.com/gcoronelc/USIL_TPW_2017_1_TT/master/Fotos/IMG_20170531_133703263.jpg)
+
+![TALLER DE PROGRAMACION WEB](
+https://raw.githubusercontent.com/gcoronelc/USIL_TPW_2017_1_TT/master/Fotos/IMG_20170601_184101319.jpg)
+
+![TALLER DE PROGRAMACION WEB](
+https://raw.githubusercontent.com/gcoronelc/USIL_TPW_2017_1_TT/master/Fotos/IMG_20170531_130503581.jpg)
+
+![TALLER DE PROGRAMACION WEB](
+https://raw.githubusercontent.com/gcoronelc/USIL_TPW_2017_1_TT/master/Fotos/IMG_20170531_130509505.jpg)
+
+
+
 
 
 
