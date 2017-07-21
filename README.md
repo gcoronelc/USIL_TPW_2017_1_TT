@@ -56,10 +56,12 @@ https://raw.githubusercontent.com/gcoronelc/USIL_TPW_2017_1_TT/master/Fotos/IMG_
 
 
 
+![TALLER DE PROGRAMACION WEB](
+https://raw.githubusercontent.com/gcoronelc/USIL_TPW_2017_1_TT/master/Fotos/a4.jpg)
 
 
-
-
+![TALLER DE PROGRAMACION WEB](
+https://raw.githubusercontent.com/gcoronelc/USIL_TPW_2017_1_TT/master/Fotos/b8.jpg)
 
 
 
